@@ -1,0 +1,73 @@
+body{
+    font-family: 'Ubuntu', sans-serif;
+    margin: 0%;
+}
+h1{
+    font-size: 40px;
+    }
+p{
+    font-size: 20px;
+}
+.notun{
+    color: orange;
+}
+
+.button{
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px 40px;
+    background-image: linear-gradient(orange, tomato) ;
+    border-radius: 6px;
+    color: white;
+    font-weight: 400;
+}
+.boro-section{
+    display: flex;
+}
+.choto-ek{
+    width: 40%;
+    padding-left: 5%;
+    }
+.choto-dui{
+    width: 60%;
+} 
+.choto-tin{
+    width: 60%;
+    padding-left: 15%;
+} 
+.choto-char{
+    width: 40%;
+}  
+
+.arekta-section{
+    background-image: url(images/7.png);
+}
+footer{
+    color: white;
+    background-color: black ;
+    text-align: center;
+}
+.one{
+    box-shadow: 5px 5px 15px orangered;
+    width: 100%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    border-left: 2px solid;
+    border-color: orangered;
+    border-radius: 30px;
+}
+.alada-class{
+    border-radius: 30px;
+    width: 100%;
+}
+.ekta-class{
+    background-image: url(images/7.png);
+    background-repeat: no-repeat;
+
+}
+.alada{
+    text-align: center;
+}
